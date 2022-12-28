@@ -23,4 +23,4 @@
   <a href="https://www.linkedin.com/in/joel-jerrys-300818a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joeljerrys95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br> 
 </div>
-![snake gif](https://github.com/joeljerrysdev/joeljerrysdev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://https://github.com/joeljerrysdev/joeljerrysdev/blob/output/github-contribution-grid-snake.svg)
